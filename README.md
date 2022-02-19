@@ -1,6 +1,6 @@
-# perfilhtmlcss
-Pagina perfil com html e css
-# Projeto criado somente em html e css para treinamento.
+# Página perfil 
+
+## Projeto criado somente em html e css para treinamento.
 
 > Para rodá-lo, é necessário ter o JDK instalado em sua máquina, baixar o arquivo CompleteProject.zip, e extraí-lo na pasta que desejar.
 
